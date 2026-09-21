@@ -1,0 +1,14 @@
+{
+  "name": "ehs-team-dashboard-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "삼영순화(주) EHS팀 업무관리 대시보드 - 사내 공용 서버",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
